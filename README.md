@@ -5,10 +5,10 @@ Olá! Meu nome é Gabriel Ambrosio Fernandez
 
 
 
-Desenvolvedor Back-End | Processamento de dados Estatísticos
+Engenheiro da Computação | Processamento de Dados Estatísticos
 -------------------------------------------------
 
-* 🌍  Engenheiro da Computação
+* 🌍  Universidade São Judas Tadeu
 * ✉️  [gabigo.af@gmail.com](mailto:gabigo.af@gmail.com)
 * 🧠  Aprendendo - Python | SPSS | Excel | MySQL | Java
 
