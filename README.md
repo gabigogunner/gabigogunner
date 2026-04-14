@@ -8,9 +8,9 @@ Olá! Meu nome é Gabriel Ambrosio Fernandez
 Desenvolvedor Back-End | Processamento de dados Estatísticos
 -------------------------------------------------
 
-* 🌍  Universidade São Judas Tadeu - Mooca
+* 🌍  Engenheiro da Computação
 * ✉️  [gabigo.af@gmail.com](mailto:gabigo.af@gmail.com)
-* 🧠  Aprendendo - Python | SPSS | Excel | Planejamento de Redes
+* 🧠  Aprendendo - Python | SPSS | Excel | MySQL | Java
 
 ### Skills
 
