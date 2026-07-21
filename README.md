@@ -20,8 +20,8 @@ Engenheiro da Computação | Processamento de Dados Estatísticos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" width="36" height="36" alt="SPSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"  width="36" height="36" alt="Playwright"/>
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"   width="36" height="36" alt="Spring"/>
+
           
 </p>
 
